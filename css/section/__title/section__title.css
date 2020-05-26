@@ -1,0 +1,6 @@
+.section__title {
+    width: 100% ;
+    box-sizing:border-box;
+    text-align: center;
+    border:3px solid black
+}

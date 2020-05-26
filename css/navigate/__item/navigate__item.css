@@ -1,0 +1,8 @@
+.navigate__item {
+    height: 50px;
+    background-color: green;
+    border:3px solid black;
+    width: 100% ;
+    box-sizing:border-box;
+    margin-top: 20px;
+}

@@ -1,0 +1,8 @@
+.content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    box-sizing: border-box;
+    margin-top: 15px;
+    padding: 15px;
+}
